@@ -1,4 +1,5 @@
 /*Pointers*/
+
 #include<stdio.h>
 int pointer1()
 {
